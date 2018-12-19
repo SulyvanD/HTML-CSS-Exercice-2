@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML-CSS-Exercice-2", "HTML-CSS-Exercice-2\HTML-CSS-Exercice-2.csproj", "{A8435DC4-94D2-4693-95C1-594DD6764FBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8435DC4-94D2-4693-95C1-594DD6764FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8435DC4-94D2-4693-95C1-594DD6764FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8435DC4-94D2-4693-95C1-594DD6764FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8435DC4-94D2-4693-95C1-594DD6764FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {694854A9-8283-4F1A-BB10-744EEA8F1A1F}
+	EndGlobalSection
+EndGlobal
